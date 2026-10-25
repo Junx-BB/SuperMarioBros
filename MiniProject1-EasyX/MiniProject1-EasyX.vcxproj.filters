@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="源文件\资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MiniProject1-EasyX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevelMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel_1_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCutscene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerMario.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyGoomba.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyKoopaTroopa.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyPiranhaPlant.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectsMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GroundBrick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LuckyBrick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Hill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SmallHill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeTop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeBody.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HardBrick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bush.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EmptyLuckyBrick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EventsDispatcher_PlayerMario.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Prop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GrowMushroom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FireFlower.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Castle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Flag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevelMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel_1_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCutscene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerMario.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyGoomba.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyKoopaTroopa.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyPiranhaPlant.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectsMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GroundBrick.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LuckyBrick.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Hill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SmallHill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeTop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeBody.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HardBrick.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bush.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EmptyLuckyBrick.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EventsDispatcher_PlayerMario.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Prop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GrowMushroom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FireFlower.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Castle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Flag.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

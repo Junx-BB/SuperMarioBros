@@ -1,0 +1,205 @@
+﻿  Background.cpp
+  Block.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Background.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Block.cpp”)
+  
+  Brick.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Brick.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Brick.cpp(92,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Brick.cpp(107,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Brick.cpp(111,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Bush.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Bush.cpp”)
+  
+  Camera.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Camera.cpp”)
+  
+  Castle.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Castle.cpp”)
+  
+  Cloud.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Cloud.cpp”)
+  
+  Coin.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Coin.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Coin.cpp(9,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Coin.cpp(10,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Coin.cpp(42,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Coin.cpp(59,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  EmptyLuckyBrick.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“EmptyLuckyBrick.cpp”)
+  
+  EnemyBase.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“EnemyBase.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.cpp(10,26): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.cpp(11,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  EnemyGoomba.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“EnemyGoomba.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyGoomba.cpp(10,27): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyGoomba.cpp(11,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyGoomba.cpp(33,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyGoomba.cpp(37,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyGoomba.cpp(128,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyGoomba.cpp(213,31): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  EnemyKoopaTroopa.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“EnemyKoopaTroopa.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyKoopaTroopa.cpp(10,32): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyKoopaTroopa.cpp(11,23): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyKoopaTroopa.cpp(36,16): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyKoopaTroopa.cpp(40,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyKoopaTroopa.cpp(167,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyKoopaTroopa.cpp(302,31): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  EnemyMgr.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“EnemyMgr.cpp”)
+  
+  EnemyPiranhaPlant.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“EnemyPiranhaPlant.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyPiranhaPlant.cpp(10,33): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyPiranhaPlant.cpp(11,24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyPiranhaPlant.cpp(30,22): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyPiranhaPlant.cpp(34,22): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyPiranhaPlant.cpp(99,34): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  FireFlower.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“FireFlower.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\FireFlower.cpp(11,31): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\FireFlower.cpp(12,22): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\FireFlower.cpp(24,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\FireFlower.cpp(26,101): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Flag.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Flag.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Flag.cpp(10,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\Flag.cpp(11,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  GameCutscene.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GameCutscene.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GameCutscene.cpp(7,29): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GameCutscene.cpp(8,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  GameLevelMgr.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GameLevelMgr.cpp”)
+  
+  GameLevel_1_1.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GameLevel_1_1.cpp”)
+  
+  GameMenu.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GameMenu.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GameMenu.cpp(7,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GameMenu.cpp(8,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在编译...
+  GameMgr.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GameMgr.cpp”)
+  
+  GameObjectsMgr.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GameObjectsMgr.cpp”)
+  
+  GroundBrick.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GroundBrick.cpp”)
+  
+  GrowMushroom.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“GrowMushroom.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(10,33): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(11,24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(23,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(25,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(34,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(121,54): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(162,70): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\GrowMushroom.cpp(163,56): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  HardBrick.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“HardBrick.cpp”)
+  
+  Hill.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Hill.cpp”)
+  
+  LuckyBrick.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“LuckyBrick.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\LuckyBrick.cpp(120,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\LuckyBrick.cpp(135,75): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\LuckyBrick.cpp(139,47): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  MiniProject1-EasyX.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“MiniProject1-EasyX.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\MiniProject1-EasyX.cpp(10,20): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\MiniProject1-EasyX.cpp(14,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\MiniProject1-EasyX.cpp(16,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\MiniProject1-EasyX.cpp(16,20): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\MiniProject1-EasyX.cpp(22,20): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  MusicMgr.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“MusicMgr.cpp”)
+  
+  PipeBody.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“PipeBody.cpp”)
+  
+  PipeTop.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“PipeTop.cpp”)
+  
+  PlayerMario.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“PlayerMario.cpp”)
+  
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\PlayerMario.cpp(10,26): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\PlayerMario.cpp(11,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  PlayerMgr.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“PlayerMgr.cpp”)
+  
+  Prop.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Prop.cpp”)
+  
+  SmallHill.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“SmallHill.cpp”)
+  
+  Text.cpp
+C:\Users\86150\source\repos\SuperMarioBros\MiniProject1-EasyX\EnemyBase.h(19,33): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  (编译源文件“Text.cpp”)
+  
+  正在生成代码
+  757 of 1625 functions (46.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    138 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MiniProject1-EasyX.vcxproj -> C:\Users\86150\source\repos\SuperMarioBros\x64\Release\MiniProject1-EasyX.exe
